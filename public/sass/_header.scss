@@ -1,0 +1,26 @@
+header {
+  //  height: 60px;
+    background-color: $layoutColor;
+    color:#fff;
+    text-align: center;
+
+    img {
+          margin-top: 10px;
+    }
+
+    nav{
+        display: inline-block;
+        width: 100%;
+   
+         ul{
+          padding: 15px 10px 15px 0px;
+             li {
+                display: inline-block;
+             }
+        }
+
+
+    }
+
+
+}
